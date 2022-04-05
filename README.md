@@ -23,5 +23,5 @@ public void paint(Graphics g)
 }
 
 /*
-*  <applet code="journal9" width=800 height=800> </applet>
+ *  <applet code="journal9" width=800 height=800> </applet>
 */
